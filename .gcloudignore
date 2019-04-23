@@ -1,6 +1,9 @@
 .gcloudignore
 .git
 .gitignore
-node_modules/
 LICENSE
 README.md
+memo.md
+node_modules/
+/pages/
+/components/
